@@ -1,0 +1,12 @@
+/*specificity -> id>class>selector*/
+h1 {
+    color: pink;
+}
+
+#greet {
+    color: blue;
+}
+
+.myClass {
+    color: red;
+}

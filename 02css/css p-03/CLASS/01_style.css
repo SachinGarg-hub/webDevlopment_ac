@@ -1,0 +1,19 @@
+div {
+    height: 100px;
+    WIDTH: 700px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: black;
+    padding-top: 20px;
+    margin-bottom: 50px;
+
+}
+
+h1 {
+    border-width: 2px;
+    border-style: dotted;
+    border-color: red;
+    border-radius: 20px;
+    /* shorthand border:2px solid red;  */
+}

@@ -1,0 +1,16 @@
+/*
+inhertiance in css 
+*/
+div {
+    background-color: yellow;
+}
+
+
+
+input {
+    background-color: inherit;
+}
+
+button {
+    background-color: inherit;
+}

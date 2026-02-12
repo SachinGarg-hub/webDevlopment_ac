@@ -1,0 +1,14 @@
+#container {
+    background-color: pink;
+    height: 200px;
+    width: 400px;
+    margin: auto;
+    ;
+}
+
+button {
+    background-color: lightgreen;
+    height: 50px;
+    width: 100px;
+    font-size: 16px;
+}
